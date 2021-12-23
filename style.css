@@ -1,0 +1,9 @@
+html, body {
+    margin: 0;
+    padding: 20;
+    background: linear-gradient(to right, #667db6,#0082c8,#0082c8,#667db6);
+  }
+  canvas {
+    display: block;
+  }
+  
